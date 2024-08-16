@@ -38,12 +38,4 @@ print(my_Entry_input.get())
 
 
 
-
-
-
-
-
-
-
-
 window.mainloop()
